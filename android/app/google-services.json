@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493968181948",
+    "project_id": "noteapp-e7327",
+    "storage_bucket": "noteapp-e7327.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493968181948:android:cca02aafbd2b017fffdeb9",
+        "android_client_info": {
+          "package_name": "com.example.fahad_note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWvIz9bnu6NtQCb-LmlbXkj81svqbJqu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
